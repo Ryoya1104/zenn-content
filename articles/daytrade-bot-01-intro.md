@@ -2,7 +2,7 @@
 title: "AIと作る日本株デイトレードボット開発記 #1 〜27歳、資産550万円から1000万円を目指して〜"
 emoji: "🤖"
 type: "tech"
-topics: ["python", "株", "AI", "デイトレード", "自動売買"]
+topics: ["python", "finance", "trading", "ai"]
 published: true
 ---
 

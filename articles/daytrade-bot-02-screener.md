@@ -2,7 +2,7 @@
 title: "AIと作る日本株デイトレードボット開発記 #2 スクリーニング：今日上がる銘柄を探せ"
 emoji: "🔍"
 type: "tech"
-topics: ["python", "株", "AI", "デイトレード", "自動売買"]
+topics: ["python", "finance", "trading", "ai"]
 published: true
 ---
 
