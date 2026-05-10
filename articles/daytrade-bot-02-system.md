@@ -1,6 +1,6 @@
 ---
 title: "Python・LINE・Claudeで作る自動売買ボットの設計図【デイトレボット開発記 #2】"
-emoji: "🏗️"
+emoji: "⚙️"
 type: "tech"
 topics: ["python", "finance", "trading", "ai"]
 published: true
