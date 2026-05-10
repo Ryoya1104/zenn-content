@@ -8,7 +8,7 @@ published: true
 
 ## 前回のおさらい
 
-[#1「給料だけじゃ1000万は無理。だからAIに株を任せることにした」](https://zenn.dev/ryoya1104/articles/daytrade-bot-01-intro)では、ボットを作った動機を話しました。
+[#1「給料だけじゃ1000万は無理。だからAIに株を任せることにした」](https://zenn.dev/ryoya_aitech/articles/daytrade-bot-01-intro)では、ボットを作った動機を話しました。
 
 今回は **「どうやって作ったか」** の設計全体を解説します。
 
@@ -179,11 +179,9 @@ graph LR
 
 ---
 
-## 次回予告
+## 次の記事
 
-**#3「238銘柄の中から"今日動く株"を朝8分で見つける方法」**
-
-スクリーニングの仕組みを詳しく解説します。
+https://zenn.dev/ryoya_aitech/articles/daytrade-bot-03-screener
 
 ---
 

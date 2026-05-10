@@ -8,7 +8,7 @@ published: true
 
 ## 前回のおさらい
 
-[#2「Python・LINE・Claudeで作る自動売買ボットの設計図」](https://zenn.dev/ryoya1104/articles/daytrade-bot-02-system)でシステム全体の設計を説明しました。
+[#2「Python・LINE・Claudeで作る自動売買ボットの設計図」](https://zenn.dev/ryoya_aitech/articles/daytrade-bot-02-system)でシステム全体の設計を説明しました。
 
 今回は **「238銘柄からどうやって今日取引する銘柄を選ぶか」** を解説します。
 
